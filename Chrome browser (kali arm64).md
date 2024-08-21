@@ -2,12 +2,12 @@ Chrome не работает на ARM64, но есть Chromium (сдела
 
 Установка:
 
-```bash
-sudo apt-get install chromium-browser
-```
-
-Если после установки появились ошибки, можно попробовать такую команду
+Чтобы после установки не появились лишние ошибки:
 
 ```bash
 sudo apt-get install -f
+```
+
+```bash
+sudo apt-get install chromium-browser
 ```
